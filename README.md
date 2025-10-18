@@ -840,6 +840,4 @@ This project is licensed under the **MIT** License. See the [LICENSE](LICENSE) f
 [![GitHub stars](https://img.shields.io/github/stars/your-username/sp500-stock-viewer?style=social)](https://github.com/your-username/sp500-stock-viewer/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/sp500-stock-viewer?style=social)](https://github.com/your-username/sp500-stock-viewer/network/members)
 
-**Made with ❤️ for traders and investors**
-
 </div>
