@@ -1,0 +1,19 @@
+# Visualizador B3 - Dependências Python
+# Sistema Avançado de Visualização de Ações Brasileiras
+
+# Framework Web
+fastapi>=0.115
+uvicorn[standard]>=0.30
+
+# Dados Financeiros
+yfinance>=0.2
+pandas>=2.2
+numpy>=1.26
+
+# Utilitários
+requests>=2.32
+python-dotenv>=1.0
+
+# Opcional (para funcionalidades futuras)
+# redis>=5.0
+# APScheduler>=3.10
